@@ -1,0 +1,5 @@
+Band,n_customers,n_left,spend_of_leavers,revenue_at_risk,attrition_rate
+0 months inactive,29,15,37515,562.725,0.5172413793
+1-2 months inactive,5515,605,1840715,27610.725,0.109700816
+3-4 months inactive,4281,956,3022071,45331.065,0.2233123102
+5-6 months inactive,302,51,135306,2029.59,0.1688741722
